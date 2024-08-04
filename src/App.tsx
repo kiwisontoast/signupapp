@@ -1,6 +1,7 @@
 import { useState } from 'react'
 
 import './App.css'
+import { Button } from './components/Button'
 
 function App() {
 
@@ -9,7 +10,9 @@ function App() {
       <div>
         <h1>Hello World123456789123456789!</h1>
         <h1>Hello World123456789123456789!</h1>
-      </div>
+        <Button variant="outline">Button</Button>
+        
+        </div>
     </>
   )
 }
