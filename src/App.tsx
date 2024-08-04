@@ -8,6 +8,7 @@ function App() {
     <>
       <div>
         <h1>Hello World123456789123456789!</h1>
+        <h1>Hello World123456789123456789!</h1>
       </div>
     </>
   )
